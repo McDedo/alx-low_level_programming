@@ -24,14 +24,13 @@ int main(void)
 						putchar(i);
 						putchar(n);
 						putchar(j);
-					
 						if (i == 7 && n == 8 && j == 9)
-							{break; }
+						{break; }
 						{
 							putchar(',');
 							putchar(' ');
 						}
-					}	
+					}
 				}
 			}
 		}
